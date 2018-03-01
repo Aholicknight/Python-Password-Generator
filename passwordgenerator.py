@@ -1,7 +1,7 @@
 # made by trollmad3
 import random
 
-alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWZYZ1234567!@#$%^&*"
+alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWZYZ123456790!@#$%^&*()+-_-"
 pw_length = 12
 mypw = ""
 
